@@ -1,5 +1,5 @@
 # School-District-Test-Score-Analysis
-##CSV to Python ETL Pandas
+## CSV to Python ETL Pandas
 ### Function
 Convert CSV into data frames to then analyze different statistics within schools in a certain district. There are several different summaries that were created to find what types of schools and in which district had better scores based on spending and other factors. The final result was that spending didn’t necessarily result in higher test scores, but charter schools had a much higher passing rate than public schools. 
 ### Organization
